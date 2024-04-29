@@ -1,5 +1,5 @@
 # AIM:
-To design and simulate Priority Encoder using vivado.
+To design and  simulate Priority Encoder using vivado.
 # APPARATUS REQUIRED:
 Pc with vivado software.
 # PROCEDURE:
